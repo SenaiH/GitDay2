@@ -8,4 +8,8 @@ public class HomePage {
 
     // more thing created
 
+    // add more things
+
+    // footer
+
 }
